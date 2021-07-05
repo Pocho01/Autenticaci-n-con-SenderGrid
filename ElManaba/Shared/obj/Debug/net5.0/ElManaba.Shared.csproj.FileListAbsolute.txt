@@ -1,0 +1,12 @@
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\bin\Debug\net5.0\ElManaba.Shared.deps.json
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\bin\Debug\net5.0\ElManaba.Shared.dll
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\bin\Debug\net5.0\ref\ElManaba.Shared.dll
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\bin\Debug\net5.0\ElManaba.Shared.pdb
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.csproj.AssemblyReference.cache
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.AssemblyInfoInputs.cache
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.AssemblyInfo.cs
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.csproj.CoreCompileInputs.cache
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.dll
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ref\ElManaba.Shared.dll
+C:\Users\josec\source\repos\ElManaba\ElManaba\Shared\obj\Debug\net5.0\ElManaba.Shared.pdb
